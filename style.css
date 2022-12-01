@@ -1,2 +1,9 @@
-<p style="background-color: yellow"> paragraf </p>
-h1 { color: red; }
+body {
+  background-color: red;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: black;
+}
